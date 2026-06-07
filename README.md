@@ -1,4 +1,4 @@
-# Hi 👋, I'm Prince Prajapati
+# Hi 👋, I'm Codewithprajapati
 
 ### 🚀 Welcome to CodeWithPrajapati
 
@@ -17,12 +17,19 @@
 - Bootstrap
 - Python
 - Git & GitHub
+- PHP
+- SQL (Structured Query Language)
+- WordPress
+- Shopify
+- Flutter
+- Android Studio
+- Visual Studio Code
+- Android (Basic)
+- SEO Fundamentals 
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=codewithprajapati&show_icons=true)
 
 ---
 
